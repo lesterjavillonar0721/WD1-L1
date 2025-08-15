@@ -1,0 +1,48 @@
+<!--
+JAVILLONAR, Lester B.
+BSCS - 2C
+Web Development
+-->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta>
+        <title>
+            ANG ALAMAT NG BOLA
+        </title>
+    </head>
+    <body>
+        <center><h1>Ang alamat ng bola</h1></center>
+      <h2>Chapter 1: Ang pinagmulan</h2>
+
+      <p> Sa <i>baranggay plasa</i> may  batang nagngangalang <span style="color: red; font-weight: bold;">kobe</span>
+         na kilala sa kanyang galing sa paglalaro.
+         Isang araw<br> habang naglilibot sa tabi ng <i>ilog</i> nakakita siya ng kakaibang <u>bola</u>, Dinala niya ito sa <i>bahay</i>
+        at ginawang kanyang <u>bola</u>.<br> Mula noon tuwing naglalaro siya gamit ang <u>bola</u> napapnsin niyang nagiging masaya at 
+        masigla dahil sa nakakapag laro siya<br> ng lahat ng nakakahawak nito. Hindi niya alam na ito'y may dalang swerte
+    </p>
+
+    <hr>
+
+    <h2>Chapter 2: Ang laro ng bayan</h2>
+
+    <p> Lumaganap ang balita sa <i>baranggay plasa</i> tungkol sa mahiwagang <u>bola</u> ni <span style="color:red; font-weight: bold;">kobe</span>
+        araw araw dumadagsa ang mga bata sila <br> <span style="color: red; font-weight: bold;">drexler, mhundrei, buds at john</span> sa <i>plasa</i>
+        upang makasali sa laro. kapag hawak nila ang <u>bola</u> parang nawawala ang kanilang <br> mga problema at nag hahalakhakan, ngunit isang araw, may 
+        dumating na estranghero nagngangalang ,<span style="color:red; font-weight: bold;">warren</span> mula sa <br>
+        <i>baranggay lalong</i> na nais 
+        angkinin ang <u>bola</u>. Ayaw pumayag ni <span style="color:red; font-weight: bold;">kobe</span> dahil alam niyang mawawala ang kasiyahan sa 
+        <i>plasa</i>
+    </p>
+
+    <hr>
+
+    <h2>Chapter 3: Ang ala ala</h2>
+
+    <p> Upang mapanatili ang saya sa <i>baranggay plasa</i> itinago ni <span style="color:red' font-weight: bold;">kobe</span> ang <u>bola</u> sa kanilang
+        <i>bahay</i>. Sabi ng matanda tuwing may malakas <br> na hangin maririnig mo ang tunog na gumugulong na <u>bola</u> at halakhak ng mga bata. Hanggang ngayun 
+        ang sinumang makakita ng<br> lumang <u>bola</u> sa <i>bahay</i> ay magiging masaya. Ito ang alamat kung bakit mahalaga ang pagkakaibigan at pagbabahagi ng kasiyahan    
+    </p>
+    </body>
+</html>
